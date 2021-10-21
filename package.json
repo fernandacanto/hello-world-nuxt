@@ -1,5 +1,6 @@
 {
   "name": "mywebsite-nuxt",
+  "description": "This project is aimed at my learning. With it I could learn to use Nuxt.js integrated with Storyblok. It was initially created based on this tutorial: https://www.storyblok.com/tp/nuxt-js-multilanguage-website-tutorial",
   "version": "1.0.0",
   "private": true,
   "scripts": {
